@@ -1,0 +1,1 @@
+fib' a b = a : fib' (a + b)
